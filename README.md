@@ -1,1 +1,1 @@
-# ostrich-g--compiler
+# ostrich-gpp-compiler (g++)
